@@ -3,7 +3,7 @@
 ## Sourced From
 
 - [Video Source](https://youtu.be/apgp9egIKK8)
-- [YouTube Channel](https://www.youtube.com/@christianlempa).
+- [YouTube Channel](https://www.youtube.com/@christianlempa)
 
 ## Terminal and Application Icons with Nerd-Fonts
 
